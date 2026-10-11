@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #333;
+}
+
+.active {
+    background-color: #e0f7fa;
+    border-left: 5px solid #00acc1;
+    padding: 10px;
+    transition: all 0.3s ease;
+}
